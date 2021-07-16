@@ -1,0 +1,27 @@
+@font-face{
+    font-family: my-fonts;
+    src: url(font/DancingScript-Bold.ttf);
+}
+
+body{
+    width: 60%;
+    background-color: darkolivegreen;
+    margin: 0 auto;
+    padding: 110px;
+    text-align: center;
+    font-family: my-fonts;
+    font-size: 20px;
+    display: flex;
+padding-right: 20px;
+
+}
+
+.main-div{
+
+    padding: 10px;
+    background-color: rgb(125, 163, 58);
+}
+
+.inner-div{
+    padding: 20px;
+}
